@@ -1,4 +1,4 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="92.036" height="13.872"><!--mrow--><!--mrow--><text x="0" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">&#x03c3;</text><!--/mrow-->
-<!--mrow--><text x="50.028" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">=</text><!--/mrow-->
-<text x="57.036" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">msqrt</text>
-<!--mrow--><text x="87.036" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">.</text><!--/mrow--><!--/mrow--></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="116.525" height="37.75"><style>@font-face {font-family: "STIXGeneral-Italic";src: url("../../STIXv1.1.1-webfonts/stix-web/STIXGeneral-Italic.woff");}</style><!--mrow--><!--mrow--><text x="3" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">&#x03c3;</text><!--/mrow-->
+<!--mrow--><text x="21.450000000000003" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">=</text><!--/mrow-->
+<text x="44.325" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msqrt</text>
+<!--mrow--><text x="107.275" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">.</text><!--/mrow--><!--/mrow--></svg>

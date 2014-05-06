@@ -5,7 +5,8 @@
   "keywords": [],
   "dependencies": {
     "htmlparser2": "~3.7.1",
-    "pdfkit": "0.6.1"
+    "pdfkit": "0.6.1",
+    "ent": "~2.0.0"
   },
   "devDependencies": {},
   "scripts": {

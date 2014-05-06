@@ -1,14 +1,14 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="306.448" height="37.744"><!--mrow--><text x="0" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">msup</text>
-<!--mrow--><text x="29.34" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">=</text><!--/mrow-->
-<text x="36.348" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">msup</text>
-<text x="65.688" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">msup</text>
-<!--mrow--><text x="95.028" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">=</text><!--/mrow-->
-<text x="102.036" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">msup</text>
-<!--mrow--><!--mrow--><text x="131.376" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">(</text><!--/mrow-->
-<!--mrow--><!--mrow--><text x="136.376" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">&#x2202;</text><!--/mrow-->
-<text x="187.07600000000002" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">msup</text><!--/mrow--><line x1="136.376" x2="216.416" y1="18.872" y2="18.872" style="stroke:#000000;"/><!--mrow--><!--mrow--><text x="136.376" y="37.744" fill="#000000" font-family="Helvetica" font-size="10px">&#x2202;</text><!--/mrow-->
-<text x="187.07600000000002" y="37.744" fill="#000000" font-family="Helvetica" font-size="10px">msup</text><!--/mrow-->
-<!--mrow--><text x="216.416" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">+</text><!--/mrow-->
-<text x="223.424" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">msubsup</text>
-<text x="272.108" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">msup</text>
-<!--mrow--><text x="301.448" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">)</text><!--/mrow--><!--/mrow--><!--/mrow--></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="561.9000000000001" height="85.5"><style>@font-face {font-family: "STIXGeneral-Italic";src: url("../../STIXv1.1.1-webfonts/stix-web/STIXGeneral-Italic.woff");}</style><!--mrow--><text x="3" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msup</text>
+<!--mrow--><text x="61.875" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">=</text><!--/mrow-->
+<text x="84.75" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msup</text>
+<text x="143.625" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msup</text>
+<!--mrow--><text x="202.5" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">=</text><!--/mrow-->
+<text x="225.375" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msup</text>
+<!--mrow--><!--mrow--><text x="284.25" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">(</text><!--/mrow-->
+<!--mrow--><!--mrow--><text x="298.575" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">&#x2202;</text><!--/mrow-->
+<text x="316.34999999999997" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msup</text><!--/mrow--><line x1="295.575" x2="372.225" y1="42.75" y2="42.75" style="stroke:#000000;"/><!--mrow--><!--mrow--><text x="298.575" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">&#x2202;</text><!--/mrow-->
+<text x="316.34999999999997" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msup</text><!--/mrow-->
+<!--mrow--><text x="375.225" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">+</text><!--/mrow-->
+<text x="398.1" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msubsup</text>
+<text x="491.70000000000005" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msup</text>
+<!--mrow--><text x="550.575" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">)</text><!--/mrow--><!--/mrow--><!--/mrow--></svg>

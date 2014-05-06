@@ -1,17 +1,17 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="108.364" height="37.744"><!--mrow--><text x="0" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">f</text><!--/mrow-->
-<!--mrow--><!--mrow--><text x="5" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">(</text><!--/mrow-->
-<!--mrow--><text x="10" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">a</text><!--/mrow-->
-<!--mrow--><text x="16.672" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">)</text><!--/mrow--><!--/mrow-->
-<!--mrow--><text x="21.672" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">=</text><!--/mrow-->
-<!--mrow--><text x="33.68" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">1</text><!--/mrow--><line x1="28.68" x2="45.352000000000004" y1="18.872" y2="18.872" style="stroke:#000000;"/><!--mrow--><!--mrow--><text x="28.68" y="37.744" fill="#000000" font-family="Helvetica" font-size="10px">2</text><!--/mrow-->
-<!--mrow--><text x="35.352" y="37.744" fill="#000000" font-family="Helvetica" font-size="10px">π</text><!--/mrow-->
-<!--mrow--><text x="40.352" y="37.744" fill="#000000" font-family="Helvetica" font-size="10px">i</text><!--/mrow--><!--/mrow-->
-<text x="45.352000000000004" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">msub</text>
-<!--mrow--><!--mrow--><text x="74.69200000000001" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">f</text><!--/mrow-->
-<!--mrow--><text x="79.69200000000001" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">(</text><!--/mrow-->
-<!--mrow--><text x="84.69200000000001" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">z</text><!--/mrow-->
-<!--mrow--><text x="90.69200000000001" y="13.872" fill="#000000" font-family="Helvetica" font-size="10px">)</text><!--/mrow--><!--/mrow--><line x1="74.69200000000001" x2="95.69200000000001" y1="18.872" y2="18.872" style="stroke:#000000;"/><!--mrow--><!--mrow--><text x="76.35600000000001" y="37.744" fill="#000000" font-family="Helvetica" font-size="10px">z</text><!--/mrow-->
-<!--mrow--><text x="82.35600000000001" y="37.744" fill="#000000" font-family="Helvetica" font-size="10px">−</text><!--/mrow-->
-<!--mrow--><text x="87.35600000000001" y="37.744" fill="#000000" font-family="Helvetica" font-size="10px">a</text><!--/mrow--><!--/mrow-->
-<!--mrow--><text x="95.69200000000001" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">d</text><!--/mrow-->
-<!--mrow--><text x="102.364" y="25.808" fill="#000000" font-family="Helvetica" font-size="10px">z</text><!--/mrow--></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="283.37500000000006" height="85.5"><style>@font-face {font-family: "STIXGeneral-Italic";src: url("../../STIXv1.1.1-webfonts/stix-web/STIXGeneral-Italic.woff");}</style><!--mrow--><text x="3" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">f</text><!--/mrow-->
+<!--mrow--><!--mrow--><text x="15.95" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">(</text><!--/mrow-->
+<!--mrow--><text x="30.275" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">a</text><!--/mrow-->
+<!--mrow--><text x="48.8" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">)</text><!--/mrow--><!--/mrow-->
+<!--mrow--><text x="63.125" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">=</text><!--/mrow-->
+<!--mrow--><text x="101.775" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">1</text><!--/mrow--><line x1="83" x2="133.05" y1="42.75" y2="42.75" style="stroke:#000000;"/><!--mrow--><!--mrow--><text x="86" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">2</text><!--/mrow-->
+<!--mrow--><text x="104.5" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">π</text><!--/mrow-->
+<!--mrow--><text x="123.1" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">i</text><!--/mrow--><!--/mrow-->
+<text x="136.05" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msub</text>
+<!--mrow--><!--mrow--><text x="194.82500000000002" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">f</text><!--/mrow-->
+<!--mrow--><text x="207.775" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">(</text><!--/mrow-->
+<!--mrow--><text x="222.1" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">z</text><!--/mrow-->
+<!--mrow--><text x="237.825" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">)</text><!--/mrow--><!--/mrow--><line x1="191.82500000000002" x2="249.15000000000003" y1="42.75" y2="42.75" style="stroke:#000000;"/><!--mrow--><!--mrow--><text x="194.925" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">z</text><!--/mrow-->
+<!--mrow--><text x="210.65" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">−</text><!--/mrow-->
+<!--mrow--><text x="233.525" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">a</text><!--/mrow--><!--/mrow-->
+<!--mrow--><text x="252.15000000000003" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">d</text><!--/mrow-->
+<!--mrow--><text x="270.65000000000003" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">z</text><!--/mrow--></svg>
