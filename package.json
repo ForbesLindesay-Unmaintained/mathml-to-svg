@@ -4,9 +4,9 @@
   "description": "Convert MathML documents to SVG images",
   "keywords": [],
   "dependencies": {
-    "htmlparser2": "~3.7.1",
-    "pdfkit": "0.6.1",
-    "ent": "~2.0.0"
+    "htmlparser2": "^3.9.1",
+    "pdfkit": "^0.8",
+    "ent": "^2.2"
   },
   "devDependencies": {},
   "scripts": {
