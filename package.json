@@ -1,6 +1,6 @@
 {
   "name": "mathml-to-svg",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Convert MathML documents to SVG images",
   "keywords": [],
   "dependencies": {
