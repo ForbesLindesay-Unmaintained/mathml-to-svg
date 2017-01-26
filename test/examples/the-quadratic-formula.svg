@@ -1,7 +1,11 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="167.475" height="85.5"><style>@font-face {font-family: "STIXGeneral-Italic";src: url("../../STIXv1.1.1-webfonts/stix-web/STIXGeneral-Italic.woff");}</style><!--mrow--><!--mrow--><text x="3" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">x</text><!--/mrow-->
-<!--mrow--><text x="20.1" y="49.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">=</text><!--/mrow-->
-<!--mrow--><!--mrow--><text x="42.974999999999994" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">&#x2212;</text><!--/mrow-->
-<!--mrow--><text x="65.85" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">b</text><!--/mrow-->
-<!--mrow--><text x="84.35" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">&#x00B1;</text><!--/mrow-->
-<text x="107.225" y="25.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msqrt</text><!--/mrow--><line x1="39.975" x2="167.475" y1="42.75" y2="42.75" style="stroke:#000000;"/><!--mrow--><!--mrow--><text x="88.21249999999999" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">2</text><!--/mrow-->
-<!--mrow--><text x="106.71249999999999" y="72.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">a</text><!--/mrow--><!--/mrow--><!--/mrow--></svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="260.1" height="95.5"><style>@font-face {font-family: "STIXGeneral-Italic";src: url("../../STIXv1.1.1-webfonts/stix-web/STIXGeneral-Italic.woff");}</style><!--mrow--><!--mrow--><text x="3" y="54.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">x</text><!--/mrow-->
+<!--mrow--><text x="20.1" y="54.04166666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">=</text><!--/mrow-->
+<!--mrow--><!--mrow--><text x="42.974999999999994" y="30.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">&#x2212;</text><!--/mrow-->
+<!--mrow--><text x="65.85" y="30.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">b</text><!--/mrow-->
+<!--mrow--><text x="84.35" y="30.166666666666668" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">&#x00B1;</text><!--/mrow-->
+<!--mrow--><text x="127.225" y="35.16666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">msup</text>
+<!--mrow--><text x="186.1" y="35.16666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">&#x2212;</text><!--/mrow-->
+<!--mrow--><text x="208.975" y="35.16666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">4</text><!--/mrow-->
+<!--mrow--><text x="227.475" y="35.16666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">a</text><!--/mrow-->
+<!--mrow--><text x="246" y="35.16666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">c</text><!--/mrow--><!--/mrow--><line x1="104.225" x2="114.225" y1="27.75" y2="37.75" style="stroke:#000000;"/><line x1="114.225" x2="124.225" y1="37.75" y2="5" style="stroke:#000000;"/><line x1="124.225" x2="260.1" y1="5" y2="5" style="stroke:#000000;"/><!--/mrow--><line x1="39.975" x2="260.1" y1="47.75" y2="47.75" style="stroke:#000000;"/><!--mrow--><!--mrow--><text x="134.525" y="82.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">2</text><!--/mrow-->
+<!--mrow--><text x="153.025" y="82.91666666666667" fill="#000000" font-family="STIXGeneral-Italic" font-size="25">a</text><!--/mrow--><!--/mrow--><!--/mrow--></svg>
