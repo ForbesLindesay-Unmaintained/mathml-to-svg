@@ -1,5 +1,7 @@
 # mathml-to-svg
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/mathml-to-svg.svg)](https://greenkeeper.io/)
+
 Convert MathML documents to SVG images
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/mathml-to-svg/master.svg)](https://travis-ci.org/ForbesLindesay/mathml-to-svg)
