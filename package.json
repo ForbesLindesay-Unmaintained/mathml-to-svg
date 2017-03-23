@@ -6,7 +6,7 @@
   "dependencies": {
     "htmlparser2": "^3.9.1",
     "pdfkit": "0.8.0",
-    "ent": "^2.2"
+    "ent": 
   },
   "devDependencies": {},
   "scripts": {
